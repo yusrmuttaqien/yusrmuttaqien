@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Personal site](http://yusrilmuttaqien.vercel.app/)
 - 🌱 I’m currently learning [Astro](https://astro.build/), [SWUP](https://swup.js.org/), and [GSAP](https://greensock.com/)
-- 👯 I’m looking to collaborate on anything (currently exploring about anything)
+- 👯 I’m looking to collaborate on anything (currently exploring anything)
 - 💬 Ask me about anything! (or, frontend web dev topics)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ydhm/)
 
