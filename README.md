@@ -1,4 +1,4 @@
-# Hi there 👋, the name is Yusril Muttaqien (call me Yusril)
+# Hi there 👋, i'm Yusril Muttaqien
 
 ![Yusril Muttaqien's logo v4](https://github.com/yusrmuttaqien/yusrmuttaqien/blob/main/Cover.png "Yusril Muttaqien's logo v4")
 
