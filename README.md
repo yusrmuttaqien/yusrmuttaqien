@@ -1,6 +1,6 @@
 # Hi there 👋, i'm Yusril Muttaqien
 
-![Yusril Muttaqien's logo v4](https://github.com/yusrmuttaqien/yusrmuttaqien/blob/main/Coverv4.png "Yusril Muttaqien's logo v4")
+![Yusril Muttaqien's logo v4](https://github.com/yusrmuttaqien/yusrmuttaqien/blob/main/assets/Cover.png "Yusril Muttaqien's logo v4")
 
 - 🔭 I’m currently working on [Personal site](http://yusrilmuttaqien.vercel.app/)
 - 🌱 I’m currently learning [Astro](https://astro.build/), [SWUP](https://swup.js.org/), and [GSAP](https://greensock.com/)
