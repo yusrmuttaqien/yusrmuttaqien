@@ -4,9 +4,9 @@
 ![Yusril Muttaqien's banner](https://github.com/yusrmuttaqien/yusrmuttaqien/blob/main/assets/banner.png)
 
 - 🔭 I’m currently working on [Personal site](http://yusrmuttaqien.vercel.app/)
-- 🌱 I’m currently learning [Vue.js](https://vuejs.org/), [Nuxt.js](https://nuxt.com/), [Astro](https://astro.build/), [SWUP](https://swup.js.org/), and [GSAP](https://greensock.com/)
-- 👯 I’m looking to collaborate on anything (currently exploring anything)
-- 💬 Ask me about anything! (or, frontend web dev topics)
+- 🌱 I’m currently learning [NextJS 14](https://nextjs.org/), [Framer Motion](https://www.framer.com/motion/), [GSAP](https://greensock.com/), and UI/UX and Web designs
+- 👯 I’m looking to collaborate on Web Frontend and UI/UX development
+- 💬 Ask me about anything! (or, frontend web and UI/UX dev topics)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ydhm/)
 
 <!--
