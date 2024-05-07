@@ -3,7 +3,7 @@
 
 ![Yusril Muttaqien's banner](https://github.com/yusrmuttaqien/yusrmuttaqien/blob/main/assets/banner.png)
 
-- 🔭 I’m currently working on [Personal site (Disclaimer: WIP this is last dev preview build per 7 May 2024)](https://yusrmuttaqien-5c8n91hrb-yusril-muttaqiens-projects.vercel.app/)
+- 🔭 I’m currently working on [Personal site](https://yusrmuttaqien-5c8n91hrb-yusril-muttaqiens-projects.vercel.app/) (Disclaimer: this is WIP, last dev preview build per 7 May 2024)
 - 🌱 I’m currently learning [NextJS 14](https://nextjs.org/), [Framer Motion](https://www.framer.com/motion/), and Graphics motion designs
 - 👯 I’m looking to collaborate on Web Frontend and/or UI/UX development
 - 💬 Ask me about anything! (or, frontend web and UI/UX dev topics) [here](https://www.linkedin.com/in/ydhm/)
