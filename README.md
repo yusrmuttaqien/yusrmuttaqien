@@ -3,11 +3,10 @@
 
 ![Yusril Muttaqien's banner](https://github.com/yusrmuttaqien/yusrmuttaqien/blob/main/assets/banner.png)
 
-- 🔭 I’m currently working on [Personal site](http://yusrmuttaqien.vercel.app/)
-- 🌱 I’m currently learning [NextJS 14](https://nextjs.org/), [Framer Motion](https://www.framer.com/motion/), [GSAP](https://greensock.com/), and UI/UX and Graphics designs
-- 👯 I’m looking to collaborate on Web Frontend and UI/UX development
-- 💬 Ask me about anything! (or, frontend web and UI/UX dev topics)
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ydhm/)
+- 🔭 I’m currently working on [Personal site (Disclaimer: WIP this is last dev preview build per 7 May 2024)](https://yusrmuttaqien-5c8n91hrb-yusril-muttaqiens-projects.vercel.app/)
+- 🌱 I’m currently learning [NextJS 14](https://nextjs.org/), [Framer Motion](https://www.framer.com/motion/), and Graphics motion designs
+- 👯 I’m looking to collaborate on Web Frontend and/or UI/UX development
+- 💬 Ask me about anything! (or, frontend web and UI/UX dev topics) [here](https://www.linkedin.com/in/ydhm/)
 
 <!--
 **yusrmuttaqien/yusrmuttaqien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
