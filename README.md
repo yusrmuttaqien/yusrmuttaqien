@@ -6,7 +6,8 @@
 - 🔭 I’m currently working on [Personal site](https://github.com/yusrmuttaqien/yusrmuttaqien-site)
 - 🌱 I’m currently learning [NextJS 14](https://nextjs.org/), [Framer Motion](https://www.framer.com/motion/), and Graphics designs
 - 👯 I’m looking to collaborate on Web Frontend Development and UI/UX development
-- 💬 Ask me about anything! (or, frontend web and UI/UX dev topics) [here](https://www.linkedin.com/in/ydhm/)
+- 💬 Ask me about anything! (or, frontend web and UI/UX dev topics)
+- ⚡ Fun fact: I love brutalist/utilitarian designs and thrive to apply such design on everything i touch (in moderation ofc)
 
 <!--
 **yusrmuttaqien/yusrmuttaqien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
