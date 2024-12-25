@@ -1,25 +1,34 @@
+# Yusril Muttaqien's GitHub Stats
 
-# Hi there 👋, i'm Yusril Muttaqien
+<div align="center">
 
-![Yusril Muttaqien's banner](https://github.com/yusrmuttaqien/yusrmuttaqien/blob/main/assets/banner.png)
+<img src="https://avatars.githubusercontent.com/u/55142840?v=4" alt="Profile" width="200" height="200" style="border-radius: 50%; margin-bottom: 20px;">
 
-- 🔭 I’m currently working on [Personal site](https://yusrmuttaqien.vercel.app)
-- 🌱 I’m currently learning [NextJS 14](https://nextjs.org/), [Framer Motion](https://www.framer.com/motion/), and Graphics designs
-- 👯 I’m looking to collaborate on Web Frontend Development and UI/UX development
-- 💬 Ask me about anything! (or, frontend web and UI/UX dev topics)
-- ⚡ Fun fact: I love brutalist/utilitarian designs and thrive to apply such design on everything i touch (in moderation ofc)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yusrmuttaqien&show_icons=true&theme=radical)
 
-<!--
-**yusrmuttaqien/yusrmuttaqien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yusrmuttaqien&theme=radical)
 
-Here are some ideas to get you started:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusrmuttaqien&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+![Next.js](https://img.shields.io/badge/Next.js-eab308?style=for-the-badge&logo=Next.js&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-eab308?style=for-the-badge&logo=Typescript&logoColor=white)
+![framer-motion](https://img.shields.io/badge/framer-motion-eab308?style=for-the-badge&logo=framer-motion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-eab308?style=for-the-badge&logo=Figma&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-eab308?style=for-the-badge&logo=TailwindCSS&logoColor=white)
+![React-query](https://img.shields.io/badge/React-query-eab308?style=for-the-badge&logo=React-query&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-eab308?style=for-the-badge&logo=GSAP&logoColor=white)
+
+### Connect With Me
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/yusrmuttaqien)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/yusrmuttaqien)
+[![Website](https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://yusrmuttaqien.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:idyusril@gmail.com)
+
+### Contributions
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yusrmuttaqien&theme=react-dark)
+
+### Trophy Case
+![Trophies](https://github-profile-trophy.vercel.app/?username=yusrmuttaqien&theme=darkhub&row=1)
+
+</div>
