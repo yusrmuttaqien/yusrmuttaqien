@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/55142840?v=4" alt="Profile" width="200" height="200" style="border-radius: 50%; margin-bottom: 20px;">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yusrmuttaqien&show_icons=true&theme=radical)
 
