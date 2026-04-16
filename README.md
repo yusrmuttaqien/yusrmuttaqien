@@ -27,7 +27,4 @@
 ### Contributions
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yusrmuttaqien&theme=react-dark)
 
-### Trophy Case
-![Trophies](https://github-profile-trophy.vercel.app/?username=yusrmuttaqien&theme=darkhub&row=1)
-
 </div>
