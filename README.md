@@ -19,8 +19,6 @@
         <a href="https://git.io/streak-stats">
             <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="yusrmuttaqien's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=yusrmuttaqien&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
         </a>
-    </div>
-    <div style="display:flex;>
         <a html="https://github-readme-activity-graph.vercel.app">
             <img alt="yusrmuttaqien's contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yusrmuttaqien&theme=react-dark"/>
         </a>
