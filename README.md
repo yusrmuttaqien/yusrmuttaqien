@@ -4,9 +4,8 @@
 
 ### Here's my info, what i'm up to right now, and stats...
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/yusrmuttaqien)
-[![yusrmuttaqien's website](https://custom-icon-badges.demolab.com/badge/yusrmuttaqien's%20portfolio-000000.svg?logo=next.js&logoColor=white)](https://yusrmuttaqien.vercel.app)
-[![yusrmuttaqien's new (v8) website](https://custom-icon-badges.demolab.com/badge/[WIP]%20yusrmuttaqien's%20next%20(v8)%20portfolio-FF3E00.svg?logo=svelte&logoColor=white)](https://yusrmuttaqien-v8.vercel.app)
+[![yusrmuttaqien's instagram](https://custom-icon-badges.demolab.com/badge/Hobby-photography-FF0069.svg?logo=instagram&logoColor=white)](https://www.instagram.com/yusrmuttaqien/)
+[![yusrmuttaqien's new (v8) website](https://custom-icon-badges.demolab.com/badge/WIP-%20next%20v8%20web%20portfolio-FF3E00.svg?logo=svelte&logoColor=white)](https://yusrmuttaqien-v8.vercel.app)
 
 ![yusrmuttaqien's Top Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=yusrmuttaqien&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff)
 
