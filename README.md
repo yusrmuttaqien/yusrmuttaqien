@@ -1,6 +1,6 @@
 # Hello there! I'm a Software Engineer 👋
 
-## Focused in Frontend development 🌃
+## Focused in Frontend development, with Backend development background 🌃
 
 ### Here's my info, what i'm up to right now, and stats...
 
@@ -18,10 +18,11 @@
 [![Next.js](https://custom-icon-badges.demolab.com/badge/Web%20dev-Next.js%20(React.js)-000.svg?logo=next.js&logoColor=white)](https://nextjs.org/)
 [![macOS](https://custom-icon-badges.demolab.com/badge/Operating%20system-macOS-000.svg?logo=macos&logoColor=white)](https://www.apple.com/id/os/macos/)
 [![Arch Linux](https://custom-icon-badges.demolab.com/badge/Operating%20system-EndevaourOS%20Arch%20Linux%20(btw)-1793D1.svg?logo=arch%20linux&logoColor=white)](https://endeavouros.com/)
+[![ZeroTier](https://custom-icon-badges.demolab.com/badge/Network-ZeroTier-FFB441.svg?logo=zerotier&logoColor=white)](https://www.zerotier.com/)
 
 #### Languages/frameworks/libraries/platforms I aspire to develop in:
 
-[![iOS](https://custom-icon-badges.demolab.com/badge/Native-Swift-F05138.svg?logo=swift&logoColor=white)](https://www.swift.org/)
+[![Swift](https://custom-icon-badges.demolab.com/badge/Native-Swift-F05138.svg?logo=swift&logoColor=white)](https://www.swift.org/)
 
 
 ![yusrmuttaqien's Github Stats](https://denvercoder1-github-readme-stats.vercel.app/api/?username=yusrmuttaqien&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
